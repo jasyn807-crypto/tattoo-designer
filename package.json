@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
   "dependencies": {
     "aws-sdk": "^2.1693.0",
     "axios": "^1.16.1",
